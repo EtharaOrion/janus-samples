@@ -188,3 +188,9 @@ If Janus supports your research, please cite the underlying methodology paper.
 Released under the [MIT License](LICENSE)  ·  © 2026 Ethara AI
 
 </div>
+
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
